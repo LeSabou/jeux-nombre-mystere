@@ -1,1 +1,1 @@
-# jeux-nombre-myst-re
+# jeux-nombre-mystère
